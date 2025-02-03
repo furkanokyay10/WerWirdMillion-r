@@ -1,2 +1,2 @@
 # WerWirdMillionar
-hi
+Wer wird Millionär mit Java
